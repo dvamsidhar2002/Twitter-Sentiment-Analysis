@@ -1,6 +1,12 @@
 # Twitter-Sentiment-Analysis
 Twitter Sentiment Analysis with Python using Natural Language Processing and Feature Extraction.
 
+
+![Type](https://img.shields.io/badge/Machine-Learning-blue.svg)
+![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
+![Type](https://img.shields.io/badge/Supervised-NLP-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-parrotgreen.svg)
+
 <h2 align='center'>WORKFLOW OF THE PROJECT </h2>
 
 ```mermaid
